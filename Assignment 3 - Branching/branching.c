@@ -25,4 +25,5 @@ int main(){
             printf("Will have great mood and will be singing song. May crack joke as well. You will get good tips, definitely.");
         }
     }
+	return 0;
 }
